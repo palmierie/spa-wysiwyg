@@ -1,0 +1,30 @@
+.cardClass{
+  border: 2px solid black;
+  width: 90%;
+  margin: 1% auto;
+  padding: 1%;
+  text-align: center;
+  text-overflow: wrap;
+}
+
+#input-text-element{
+  display: block;
+  width: 92%;
+  margin: 0 auto;
+}
+
+.cardClass p{
+  text-align: left;
+}
+
+.lightblue{
+  background-color: lightblue;
+}
+
+.lightyellow{
+  background-color: lightyellow;
+}
+
+.border-target{
+  border: 5px dotted red;
+}
